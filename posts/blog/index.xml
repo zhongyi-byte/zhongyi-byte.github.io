@@ -6,7 +6,16 @@
     <description>Recent content in 🧱 建站 on Zyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 May 2022 00:18:23 +0800</lastBuildDate><atom:link href="https://zhongyi-byte.github.io/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Sep 2022 22:59:46 +0800</lastBuildDate><atom:link href="https://zhongyi-byte.github.io/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建站记录</title>
+      <link>https://zhongyi-byte.github.io/posts/blog/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Fri, 16 Sep 2022 22:59:46 +0800</pubDate>
+      
+      <guid>https://zhongyi-byte.github.io/posts/blog/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
+      <description>花了两个晚上的时间搭建好了这个博客。记录下过程： 首先是参考sulv的建站教程，用他的代码生成了我的第一版博客。然后根据个人信息作了一些配置 通</description>
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>https://zhongyi-byte.github.io/posts/blog/blog/</link>

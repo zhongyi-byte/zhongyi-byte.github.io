@@ -6,14 +6,23 @@
     <description>Recent content on Zyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 16 Sep 2022 19:40:56 +0800</lastBuildDate><atom:link href="https://zhongyi-byte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Sep 2022 22:59:46 +0800</lastBuildDate><atom:link href="https://zhongyi-byte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建站记录</title>
+      <link>https://zhongyi-byte.github.io/posts/blog/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Fri, 16 Sep 2022 22:59:46 +0800</pubDate>
+      
+      <guid>https://zhongyi-byte.github.io/posts/blog/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</guid>
+      <description>花了两个晚上的时间搭建好了这个博客。记录下过程： 首先是参考sulv的建站教程，用他的代码生成了我的第一版博客。然后根据个人信息作了一些配置 通</description>
+    </item>
+    
     <item>
       <title>为什么要写博客</title>
       <link>https://zhongyi-byte.github.io/posts/life/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Fri, 16 Sep 2022 19:40:56 +0800</pubDate>
       
       <guid>https://zhongyi-byte.github.io/posts/life/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/</guid>
-      <description>enable github actions</description>
+      <description></description>
     </item>
     
     <item>
