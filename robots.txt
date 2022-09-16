@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zhongyi-byte.github.io/sitemap.xml
