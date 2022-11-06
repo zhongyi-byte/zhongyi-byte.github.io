@@ -6,7 +6,16 @@
     <description>Recent content on Zyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 16 Sep 2022 22:59:46 +0800</lastBuildDate><atom:link href="https://zhongyi-byte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 22:55:02 +0800</lastBuildDate><atom:link href="https://zhongyi-byte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lucene学习笔记</title>
+      <link>https://zhongyi-byte.github.io/posts/tech/lucene%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 06 Nov 2022 22:55:02 +0800</pubDate>
+      
+      <guid>https://zhongyi-byte.github.io/posts/tech/lucene%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <description>搜索引擎的核心在于根据关键词（term）找到相关文档（document）的能力。为了实现这一目的，lucene针对每个term维护了一个倒排</description>
+    </item>
+    
     <item>
       <title>建站记录</title>
       <link>https://zhongyi-byte.github.io/posts/blog/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</link>

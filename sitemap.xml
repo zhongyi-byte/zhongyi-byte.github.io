@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zhongyi-byte.github.io/posts/tech/</loc>
+    <lastmod>2022-11-06T22:55:02+08:00</lastmod>
+  </url><url>
     <loc>https://zhongyi-byte.github.io/posts/</loc>
-    <lastmod>2022-09-16T22:59:46+08:00</lastmod>
+    <lastmod>2022-11-06T22:55:02+08:00</lastmod>
+  </url><url>
+    <loc>https://zhongyi-byte.github.io/posts/tech/lucene%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-11-06T22:55:02+08:00</lastmod>
   </url><url>
     <loc>https://zhongyi-byte.github.io/</loc>
-    <lastmod>2022-09-16T22:59:46+08:00</lastmod>
+    <lastmod>2022-11-06T22:55:02+08:00</lastmod>
   </url><url>
     <loc>https://zhongyi-byte.github.io/posts/blog/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2022-09-16T22:59:46+08:00</lastmod>
@@ -43,9 +49,6 @@
   </url><url>
     <loc>https://zhongyi-byte.github.io/posts/read/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
-  </url><url>
-    <loc>https://zhongyi-byte.github.io/posts/tech/</loc>
-    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
   </url><url>
     <loc>https://zhongyi-byte.github.io/tags/tech/</loc>
     <lastmod>2022-05-05T00:17:58+08:00</lastmod>
