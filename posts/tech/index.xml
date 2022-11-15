@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on Zyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 06 Nov 2022 22:55:02 +0800</lastBuildDate><atom:link href="https://zhongyi-byte.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 17:53:37 +0800</lastBuildDate><atom:link href="https://zhongyi-byte.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mockito笔记</title>
+      <link>https://zhongyi-byte.github.io/posts/tech/mockito%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Tue, 15 Nov 2022 17:53:37 +0800</pubDate>
+      
+      <guid>https://zhongyi-byte.github.io/posts/tech/mockito%E7%AC%94%E8%AE%B0/</guid>
+      <description>Mockito学习笔记 概要 Mockito是一个常见用于mock依赖对象的测试工具，本文重点讲解Mockito的基本使用方法以及实现原理。 使用</description>
+    </item>
+    
     <item>
       <title>Lucene学习笔记</title>
       <link>https://zhongyi-byte.github.io/posts/tech/lucene%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
